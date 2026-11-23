@@ -1,4 +1,5 @@
 seasideships.vsax.net
+api.micromarin.com
 cloud-lcs.gravityzone.bitdefender.com
 cloudgz-lcs.gravityzone.bitdefender.com
 cloudap-lcs.gravityzone.bitdefender.com
